@@ -8,4 +8,4 @@ Para correr el proyecto abra la carpeta en una terminal o consola y ejecute el c
 
 node parser.js
 
-La entrada que leera el analizador está en el archivo Imput.text
+La entrada que leera el analizador está en el archivo Imput.txt
